@@ -1,0 +1,16 @@
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\bin\Debug\net8.0-windows\calculator_in_cSharp.exe
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\bin\Debug\net8.0-windows\calculator_in_cSharp.deps.json
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\bin\Debug\net8.0-windows\calculator_in_cSharp.runtimeconfig.json
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\bin\Debug\net8.0-windows\calculator_in_cSharp.dll
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\bin\Debug\net8.0-windows\calculator_in_cSharp.pdb
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\calculator_in_cSharp.Form1.resources
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\calculator_in_cSharp.csproj.GenerateResource.cache
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\calculator_in_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\calculator_in_cSharp.AssemblyInfoInputs.cache
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\calculator_in_cSharp.AssemblyInfo.cs
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\calculator_in_cSharp.csproj.CoreCompileInputs.cache
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\calculator_in_cSharp.dll
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\refint\calculator_in_cSharp.dll
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\calculator_in_cSharp.pdb
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\calculator_in_cSharp.genruntimeconfig.cache
+A:\C# practices\calculator\calculator_in_cSharp\calculator_in_cSharp\obj\Debug\net8.0-windows\ref\calculator_in_cSharp.dll
