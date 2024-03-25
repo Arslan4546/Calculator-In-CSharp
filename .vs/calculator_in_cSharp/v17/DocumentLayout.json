@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "A:\\C# practices\\calculator\\calculator_in_cSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53D8CACD-59A0-4988-99A9-DAD097F6A820}|calculator_in_cSharp\\calculator_in_cSharp.csproj|a:\\c# practices\\calculator\\calculator_in_csharp\\calculator_in_csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{53D8CACD-59A0-4988-99A9-DAD097F6A820}|calculator_in_cSharp\\calculator_in_cSharp.csproj|A:\\C# practices\\calculator\\calculator_in_cSharp\\calculator_in_csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{53D8CACD-59A0-4988-99A9-DAD097F6A820}|calculator_in_cSharp\\calculator_in_cSharp.csproj|solutionrelative:calculator_in_csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +28,7 @@
               "RelativeDocumentMoniker": "calculator_in_cSharp\\Form1.cs",
               "ToolTip": "A:\\C# practices\\calculator\\calculator_in_cSharp\\calculator_in_cSharp\\Form1.cs",
               "RelativeToolTip": "calculator_in_cSharp\\Form1.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAnwJUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T16:17:25.468Z",
               "EditorCaption": ""
